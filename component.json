@@ -1,0 +1,10 @@
+{
+  "name": "player",
+  "repo": "lepture/player",
+  "description": "A simple HTML5 based player.",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT"
+}

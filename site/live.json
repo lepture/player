@@ -1,0 +1,8 @@
+{
+  "channels": [
+    {
+      "name": "CCTV1",
+      "source": "http://hdshlsapp.cntv.chinacache.net/cache/hlscctv1.m3u8"
+    }
+  ]
+}
